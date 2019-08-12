@@ -1,5 +1,6 @@
 name: pEssentials
 version: ${project.version}
 main: de.prixix.pessentials.pEssentials
-authors: [Prixix]
+author: Prixix
 website: http//www.prixix.tk
+api-version: 1.8.8
